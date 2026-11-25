@@ -1,0 +1,21 @@
+.gitmodules
+  s_ba0895fd51d7a0::t_8ecc23cf2aa70c 5
+Dependencies/minimuxer
+  s_ba0895fd51d7a0::t_36a5b63ce099de 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "928d1e6fd41df73e0e641424630449f27a077812",
+  "prompts": {},
+  "sessions": {
+    "s_ba0895fd51d7a0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0b375945-68a8-4fa5-a522-1ba3e5aa38fb",
+        "model": "glm-5.3"
+      },
+      "human_author": "sam.lei <sam.lei@jtexpress.com>"
+    }
+  }
+}
