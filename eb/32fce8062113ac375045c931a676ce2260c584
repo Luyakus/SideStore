@@ -1,0 +1,19 @@
+Dependencies/minimuxer
+  s_ca0096f2972162::t_dac58978b52591 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eb32fce8062113ac375045c931a676ce2260c584",
+  "prompts": {},
+  "sessions": {
+    "s_ca0096f2972162": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_ca0096f2972162",
+        "model": "unknown"
+      },
+      "human_author": "sam.lei <sam.lei@jtexpress.com>"
+    }
+  }
+}
